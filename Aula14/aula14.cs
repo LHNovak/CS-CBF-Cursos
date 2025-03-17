@@ -1,5 +1,5 @@
 using System;
-class aula09{
+class aula14{
     static void Main(){
 
         double n1,n2,n3,nota;
